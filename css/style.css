@@ -1,0 +1,22 @@
+.body{
+    padding: 10px;
+}
+.bt1{
+    padding : 3px;
+    border : 1px #007bff solid;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: white;
+
+}
+.bt1:hover{ padding : 3px;
+    border : 1px #007bff solid;
+    border-radius: 3px;
+    background-color: white;
+    color:#007bff; }
+.btn-danger {
+        color: #fff  !important;
+        background-color:teal !important;
+        border-color: cadetblue !important;
+      }
+     
